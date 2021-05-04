@@ -1,2 +1,2 @@
 # Library_manage_system
-这是一个简单的图书管理系统vue前端
+这是一个简单的基于vue，使用ant_design框架编写的图书管理系统
